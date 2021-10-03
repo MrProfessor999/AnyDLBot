@@ -16,3 +16,4 @@ An ~~Open Source~~ ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### LICENSE
 - GPLv3
+###Easy way
