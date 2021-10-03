@@ -1,4 +1,0 @@
-pyrogram
-TgCrypto
-aiohttp
-requests
